@@ -12,10 +12,13 @@ Ehub, çevrimdışı (offline) oyunların %95'ini Steam kütüphanesine entegre 
 - **Platform:** Windows Desktop
 
 ## 📸 Uygulamadan Görüntüler
-* 🖼️ [İnstaller Görüntüsü](https://prnt.sc/qB_vrXE_UjES)
-* 🛡️ [Ehub Genel Bakış](https://prnt.sc/m-DsdicDbyrB)
-* 🖥️ [Ehub Ana Ekranı](https://prnt.sc/ILwvGIyD6AvA)
-* 📂 [Dosya Sürükleme ve Doğrulama](https://prnt.sc/j_LVRPM0Wdu6)
+
+* 🖥️ **[İnstaller Görüntüsü](https://prnt.sc/qB_vrXE_UjES)**
+* 🛡️ **[Ehub Genel Bakış](https://prnt.sc/m-DsdicDbyrB)**
+* 🚀 **[Ehub Ana Ekranı](https://prnt.sc/ILwvGIyD6AvA)**
+* 📂 **[Dosya Sürükleme Aşaması ve Doğrulama](https://prnt.sc/j_LVRPM0Wdu6)**
+
+> **Not:** Görselleri tarayıcıda açmak için linklere tıklayabilirsiniz.
 
 ## 🚀 Nasıl Çalışır?
 1. Uygulamayı yönetici olarak başlatın.
