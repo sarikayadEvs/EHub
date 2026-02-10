@@ -5,7 +5,7 @@
 
 Ehub, çevrimdışı (offline) oyunların %95'ini Steam kütüphanesine entegre etmenize olanak sağlayan özel bir bilgisayar uygulamasıdır. Kullanıcıların oyunlarını tek bir merkezden yönetmesini ve kütüphane düzenini optimize etmesini hedefler.
 
-#🛡️ Neden Ehub?
+🛡️ Peki Neden Ehub?
 Steam'deki oyunlara tonlarca para verme devri bitti. Manuel kütüphane düzenleme süreçlerini ve uyumluluk hatalarını geçmişte bırakın. Ehub, sistem seviyesindeki dosya manipülasyon tekniklerini kullanarak oyun dosyalarınızı Steam standartlarına %95 uyumlulukla optimize eder. Hem bütçenizi hem de sistem düzeninizi koruyan akıllı bir köprüdür.
 
 ## 🛠️ Teknik Özellikler
