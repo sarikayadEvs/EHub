@@ -1,4 +1,4 @@
-# 🚀 Ehub - Game Library Integrator
+<img width="753" height="392" alt="image" src="https://github.com/user-attachments/assets/52915090-f3ca-4640-ba82-d9778fb5d513" /># 🚀 Ehub - Game Library Integrator
 
 Ehub, çevrimdışı (offline) oyunların %95'ini Steam kütüphanesine entegre etmenize olanak sağlayan özel bir bilgisayar uygulamasıdır. Kullanıcıların oyunlarını tek bir merkezden yönetmesini ve kütüphane düzenini optimize etmesini hedefler.
 
@@ -12,8 +12,10 @@ Ehub, çevrimdışı (offline) oyunların %95'ini Steam kütüphanesine entegre 
 - **Platform:** Windows Desktop
 
 ## 📸 Uygulamadan Görüntüler
-> *Geliştirme aşamasındaki arayüzden ekran görüntülerini buraya ekleyebilirsiniz.*
-> `![Ana Sayfa](ekran_goruntusu_linki)`
+> `![İnstaller](https://prnt.sc/qB_vrXE_UjES)`
+> `![Ehub](https://prnt.sc/m-DsdicDbyrB)`
+> `![Ehub Ana Ekranı](https://prnt.sc/ILwvGIyD6AvA)`
+> `![Dosya Sürükleme Aşaması ve Doğrulama](https://prnt.sc/j_LVRPM0Wdu6)`
 
 ## 🚀 Nasıl Çalışır?
 1. Uygulamayı yönetici olarak başlatın.
